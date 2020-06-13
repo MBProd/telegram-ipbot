@@ -1,6 +1,12 @@
 # telegram-ipbot
 Simple bot to get their machine's public IP
 
+# Requirements
+
+```
+python-telegram-bot requests
+```
+
 # Usage
 ```
 python ipbot.py
